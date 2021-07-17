@@ -165,7 +165,7 @@ var element = document.createElement(`score-card-${Math.random().toString(36).sl
 var element_shadow_root = element.attachShadow({ mode: 'open' });
 element.shadowRoot.appendChild(template.content.cloneNode(true))
 var visibility = true;
-var zoom = false;
+var zoom = true;
 
 function toggleVisibility() {
   visibility = !visibility;
