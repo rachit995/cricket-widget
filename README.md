@@ -4,4 +4,7 @@
 
 
 ### Demo
+
+https://cricket-widget.vercel.app/
+
 ![Demo](demo.gif)
