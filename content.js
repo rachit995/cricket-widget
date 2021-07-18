@@ -13,7 +13,7 @@ template.innerHTML = `
       position: relative;
       transform-style: preserve-3d;
       animation-name: rotate-score-card;
-      animation-duration: 20s;
+      animation-duration: 10s;
       animation-timing-function: linear;
       animation-iteration-count: infinite;
     }
